@@ -1,0 +1,3 @@
+В master был исправлен README
+Комментарии коммитов: boots; dots; Merge remote-tracking branch 'origin/boots' into boots_buttons;
+Merge remote-tracking branch 'origin/buttons' into boots_buttons; Merge remote-tracking branch 'origin/hat'
